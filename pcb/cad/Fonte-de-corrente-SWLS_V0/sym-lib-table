@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MBTemp3-rescue")(type "KiCad")(uri "C:/Users/bruno.oliveira/Downloads/KiCad/MBTemp3-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MBTemp3_Eurocard-rescue")(type "KiCad")(uri "C:/Users/bruno.oliveira/Downloads/KiCad/MBTemp3_Eurocard-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MBTemp3_Eurocard-cache")(type "KiCad")(uri "C:/Users/bruno.oliveira/Downloads/KiCad/MBTemp3_Eurocard-cache.kicad_sym")(options "")(descr ""))
+)
