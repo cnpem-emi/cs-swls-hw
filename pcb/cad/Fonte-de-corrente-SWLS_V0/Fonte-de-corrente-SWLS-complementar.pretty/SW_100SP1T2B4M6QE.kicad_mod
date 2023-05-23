@@ -60,4 +60,9 @@
   (pad "3" thru_hole circle (at 4.7 0) (size 2.775 2.775) (drill 1.85) (layers "*.Cu" "*.Mask") (tstamp 4c08c8ec-1432-4839-9480-a3a342aafcb3))
   (pad "S1" thru_hole circle (at -2.54 -12.7) (size 2.775 2.775) (drill 1.85) (layers "*.Cu" "*.Mask") (tstamp e781813a-859b-49a1-a955-b5daa4f5be68))
   (pad "S2" thru_hole circle (at 2.54 -12.7) (size 2.775 2.775) (drill 1.85) (layers "*.Cu" "*.Mask") (tstamp 323c7c6d-7f31-445f-b20c-db48abbea53d))
+  (model "C:/Users/bruno.oliveira/Downloads/100SP1T2B4M6QE--3DModel-STEP-613395.STEP"
+    (offset (xyz 0 0 0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 180))
+  )
 )
